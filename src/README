@@ -1,0 +1,20 @@
+The project was build on intellij with several jar files used. Email prevents me from sending these files directly, i will simply list them here. If confusion arises, these products have detailed guides on their main site.
+
+JSON:
+json-simple-1.1.jar
+
+MONGODB
+mongodb-driver-3.4.3.jar
+mongodb-driver-core-3.4.3.jar
+BSON-3.4.3.jar
+
+RABBITMQ
+slf4j-api-1.7.26.jar
+slf4j-simple-1.7.26.jar
+amqp-client-5.7.1.jar
+
+
+
+HOW TO RUN:
+1. first run the Subscriber class to open the queue connection
+2. then run the main class to send the data.
